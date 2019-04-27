@@ -8,6 +8,6 @@ def my_each(word)
   word
   else
   puts "#{word}"
-  
+
 
 end
