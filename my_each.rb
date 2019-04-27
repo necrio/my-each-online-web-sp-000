@@ -6,7 +6,7 @@ def my_each(word)
     i = i + 1
   end
   word
-else 
+else
   puts "#{word}"
 end
 
