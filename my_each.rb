@@ -10,5 +10,5 @@ def my_each(word)
   puts "#{word}"
 end
 
-
+end
 end
